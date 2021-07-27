@@ -40,11 +40,8 @@ Apabila anda ingin bertanya anda menemui masalah terkait Beautiful Soup,
 `Kirimkan surel ke grup diskusi
 <https://groups.google.com/forum/?fromgroups#!forum/beautifulsoup>`_.
 Apabila anda menemui masalah parsing pada dokumen HTML, pastikan
-menyebutkan :ref:`what the diagnose() function says <diagnose>` dari
+menyebutkan :ref:`apa yang fungsi diagnose() hasilkan <diagnose>` dari
 dokumen tesebut.
-If your problem involves parsing an HTML document, be sure to mention
-:ref:`what the diagnose() function says <diagnose>` about
-that document.
 
 Quick Start
 ===========
