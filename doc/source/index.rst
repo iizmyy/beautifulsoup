@@ -41,7 +41,7 @@ Apabila anda ingin bertanya anda menemui masalah terkait Beautiful Soup,
 <https://groups.google.com/forum/?fromgroups#!forum/beautifulsoup>`_.
 Apabila anda menemui masalah parsing pada dokumen HTML, pastikan
 menyebutkan :ref:`apa yang fungsi diagnose() hasilkan <diagnose>` dari
-dokumen tesebut.
+dokumen tersebut.
 
 Quick Start
 ===========
